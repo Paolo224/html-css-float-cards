@@ -11,6 +11,11 @@
     clear: both;
 }
 
+html{
+    min-width: 78.1rem ;
+}
+
+
 header h1{
     font-family: 'Nunito', sans-serif;
     font-weight:800; 
@@ -72,6 +77,8 @@ h3{
 #roberto{
     margin: 0 50px;
 }
+
+
 
 
 
